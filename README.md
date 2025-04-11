@@ -5,59 +5,50 @@
 
 <!-- Statistics -->
 
-### 📈 User Statistics
+<!-- 📈 User Statistics -->
 <div align="center">
-<table>
-  <tbody>
+  <table>
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Jen-ncode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true" alt="GitHub Streak Stats">
         </a>
       </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jen-ncode&theme=dracula" alt="Profile Details">
         </a>
       </td>
     </tr>
-  </tbody>
-<table>
-  <tbody>
     <tr>
-      <th>
+      <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jen-ncode">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jen-ncode&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jen-ncode&theme=dracula" alt="Repos Per Language">
         </a>
-      </th>
-      <th>
+      </td>
+      <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jen-ncode">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jen-ncode&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jen-ncode&theme=dracula" alt="Most Commit Language">
         </a>
-      </th>
+      </td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jen-ncode">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jen-ncode&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jen-ncode&theme=dracula" alt="Stats">
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jen-ncode">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jen-ncode&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jen-ncode&theme=dracula" alt="Productive Time">
         </a>
       </td>
     </tr>
-  </tbody>
-</table>
+  </table>
 </div>
-<!--  End Stats Cards -->
+<!-- End Stats Cards -->
 
 
 
